@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Secil",
+      "title": "React MVC Pattern",
+      "text": "MVC mimarisi öğreniyoruz"
+    },
+    {
+      "id": 2,
+      "user": "Mabel",
+      "title": "MVVM Pattern",
+      "text": "MVVM mimarisi de öğreneceğiz"
+    },
+    {
+      "id": 1690571618149,
+      "user": "Secil",
+      "title": "JS öğrenme",
+      "text": "JS aslında zor değil"
+    },
+    {
+      "id": 1690571618149,
+      "user": "Melike",
+      "title": "React öğrenme",
+      "text": " React ile kod yazmak eğlenceli"
+    },
+    {
+      "id": 1690571618149,
+      "user": "Secil",
+      "title": "Toolkit öğrenme",
+      "text": "Toolkit neden öğrenmiyorsun ? "
+    },
+    {
+      "id": 1690582221750,
+      "user": "Secil",
+      "title": "MVC MİMARİSİ",
+      "text": "MVC ile kod yazmak çok eğlenceli"
+    }
+  ]
+}
